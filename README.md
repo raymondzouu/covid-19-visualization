@@ -1,3 +1,3 @@
 # US Confirmed COVID-19 Cases Visualization 2020
 
-![map](visualization_screenshot.jpg)
+![map](images/visualization_screenshot.JPG)
